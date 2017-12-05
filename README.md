@@ -138,6 +138,16 @@ Search for a question on [StackOverflow](http://stackoverflow.com) ~ *by [@xhink
 
 <img width="594" alt="stackoverflow" src="https://cloud.githubusercontent.com/assets/398893/14360280/6d324a50-fcaa-11e5-92b6-2e4c86d05524.png">
 
+### [Open with VSCode](https://github.com/iamstevendao/alfred-open-with-vscode) ~ [Download](https://github.com/iamstevendao/alfred-open-with-vscode/raw/master/Open-with-VSCode.alfredworkflow)
+
+Open a folder with [Visual Studio Code](https://code.visualstudio.com/) ~ by [@iamstevendao](https://github.com/iamstevendao)
+
+> Triggers: `code`.
+
+<p align="center">
+<img alt="open-with-vscode gif" src="https://thumbs.gfycat.com/TerrificPracticalAegeancat-size_restricted.gif"/>
+</p>
+
 ### [Sublime Text](https://github.com/franzheidl/alfred-workflows/tree/master/open-with-sublime-text) (v1.1.0) ~ [Download](https://github.com/zenorocha/alfred-workflows/raw/master/sublime-text/sublime-text.alfredworkflow)
 
 Open files or a folders in [Sublime Text 3](http://www.sublimetext.com/3) ~ *by [@franzheidl](https://github.com/franzheidl/).*
